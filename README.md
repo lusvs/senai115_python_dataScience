@@ -1,11 +1,11 @@
 # Python para Data Science
-Autores: Julio Miranda
+Autores: Lucas Soares
 
 Versão: 1
 
 Turmas: GR/PYTSCI-N207 (2º semestre 2024)
 
-Caso algum link não esteja disponível favor contactar-me pelo email jfavmir@gmail.com
+Caso algum link não esteja disponível favor contactar-me pelo email lucassvswork@gmail.com
 
 ## Instruções
 ## Links
